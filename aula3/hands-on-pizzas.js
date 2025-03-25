@@ -1,3 +1,9 @@
+const getOi = () => {
+  console.log("Oi")
+}
+
+getOi()
+
 const pizzas = [
   "bolonhesa",
   "marguerita",
